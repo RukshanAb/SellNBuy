@@ -1,0 +1,5 @@
+com\shopping\cart\repository\ShoppingCartRepository.class
+com\shopping\cart\model\ShoppingCart.class
+com\shopping\cart\controller\ShoppingCartController.class
+com\shopping\cart\dao\ShoppingCartDAO.class
+com\shopping\cart\ShoppingCartApplication.class
